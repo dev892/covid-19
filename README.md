@@ -30,7 +30,7 @@ pkg install php -y
 *[5]*
 pkg install git
 *[6] comando pra baixar a script.*
-git clone https://github.com/usuarioanonimodehacking007/covid-19
+git clone https://github.com/dev892/covid-19
 *[7]*
 ls
 *[8]*
